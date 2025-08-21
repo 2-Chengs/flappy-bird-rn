@@ -1,3 +1,5 @@
 // Export all components from this file for easy importing
 export { default as GameCanvas } from './GameCanvas';
-// More components will be added as we build them
+export { default as Bird } from './Bird';
+export { default as Pipe } from './Pipe';
+export * from './UI';

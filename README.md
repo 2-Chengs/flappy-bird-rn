@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐦 Flappy Bird React Native
 
 A modern Flappy Bird clone built with React Native and Expo, featuring smooth animations, physics-based gameplay, and cross-platform support.
@@ -191,3 +192,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Happy Coding! 🚀**
 
 For questions or support, please open an issue on GitHub.
+=======
+# flappy-bird-rn
+A Flappy Bird clone built with React Native - MVP game development project
+>>>>>>> 519e80e548155ed8f470fa974e2c75c69fd23954
